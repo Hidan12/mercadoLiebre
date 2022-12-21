@@ -84,7 +84,7 @@ main section article .descripcion .camion{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    border: black solid 1px;
+    border: green solid 1px;
     border-radius: 100%;
     position: absolute;
     right: 5%;
